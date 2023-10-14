@@ -1,0 +1,13 @@
+.tag {
+    position: absolute;
+    background-color: blueviolet;
+    color: #fff;
+    width: 2.7rem;
+    font-size: .8rem;
+    font-weight: 600;
+    padding: 2px 5px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

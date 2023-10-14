@@ -1,0 +1,22 @@
+.addBtn {
+    background-color: #fff;
+    padding: 5px 10px;
+    border: 2px solid #ff3269;
+    border-radius: 5px;
+    color: #ff3269;
+    font-weight: 600;
+    cursor: pointer;
+}
+.qty-button {
+    display: flex;
+    border: 2px solid #ff3269;
+    color: #fff;
+    font-weight: 600;
+    justify-content: space-between;
+    width: 25%;
+    align-items: center;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background: #ff3269;
+    cursor: pointer;
+}
